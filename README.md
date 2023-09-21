@@ -1,1 +1,1 @@
-# job_application_form
+This repository contains a web application built with Django to create and submit job applications. Job applicants can fill out the form with their details and submit their application. The submitted data is stored in a database for later review.
