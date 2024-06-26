@@ -19,8 +19,8 @@ This repository contains a Django-based web application for submitting job appli
 ### Clone the repository
 
 ```sh
-git clone https://github.com/your-username/job-application-form.git
-cd job-application-form
+git clone https://github.com/Dishaa01423/job_application_form-django-.git
+cd job_application_form-django-
 ```
 ## Create and activate a virtual environment
 ```sh
