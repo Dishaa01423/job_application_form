@@ -71,3 +71,15 @@ Users can fill out and submit job application forms through the web interface.
 **Managing Job Applications**
 
 Admin users can view and manage job application submissions from the admin interface.
+
+## Deployment
+
+1. Collect static files:
+
+```sh
+python manage.py collectstatic
+```
+
+2. Set up a production server: Use a web server like Gunicorn with Nginx or Apache for deployment.
+
+3. Environment variables: Ensure you set the necessary environment variables for Django settings, such as SECRET_KEY, DEBUG, and ALLOWED_HOSTS.
